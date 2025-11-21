@@ -1,3 +1,17 @@
+/*Write a C program using nested for loops to display a diamond-shaped number pattern based on a given integer n.
+The numbers should increase from 1 up to the row number and then decrease symmetrically.
+For example, if n = 4, the output should be:
+
+Sample output:
+Enter the number: 4                                                              
+   1                                                                            
+  121                                                                           
+ 12321                                                                          
+1234321                                                                         
+ 12321                                                                          
+  121                                                                           
+   1  
+*/
 #include <stdio.h>
 int main()
 {
